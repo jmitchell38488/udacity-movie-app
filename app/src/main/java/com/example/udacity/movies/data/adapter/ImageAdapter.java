@@ -1,4 +1,4 @@
-package com.example.udacity.movies.adapter;
+package com.example.udacity.movies.data.adapter;
 
 import android.app.Activity;
 import android.content.Context;

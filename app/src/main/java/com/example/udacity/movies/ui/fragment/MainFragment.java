@@ -1,4 +1,4 @@
-package com.example.udacity.movies.fragment;
+package com.example.udacity.movies.ui.fragment;
 
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
@@ -10,7 +10,7 @@ import android.widget.GridView;
 import android.widget.Toast;
 
 import com.example.udacity.movies.R;
-import com.example.udacity.movies.adapter.ImageAdapter;
+import com.example.udacity.movies.data.adapter.ImageAdapter;
 
 /**
  * A placeholder fragment containing a simple view.
